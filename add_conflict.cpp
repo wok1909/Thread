@@ -28,5 +28,3 @@ int main() {
 
     std::cout<<"Total sum = " << counter << std::endl;
 }
-
-
